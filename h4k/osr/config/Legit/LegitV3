@@ -1,0 +1,2093 @@
+{
+  "Aimbot": [
+    {
+      "Enabled": true,
+      "Fov": 3.13,
+      "Scoped only": false,
+      "Silent": true,
+      "Smooth": 2.75
+    },
+    {},
+    {},
+    {
+      "Aimlock": true,
+      "Bone": 2,
+      "Fov": 3.92,
+      "Scoped only": false,
+      "Silent": true,
+      "Smooth": 2.75
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "Aimlock": true,
+      "Bone": 2,
+      "Enabled": true,
+      "Fov": 3.92,
+      "Scoped only": false,
+      "Silent": true,
+      "Smooth": 2.75
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Aimbot Key": "MOUSE4",
+  "Aimbot Key mode": 1,
+  "Aimbot On key": true,
+  "Chams": {
+    "Allies": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Defusing": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Enemies": {
+      "Materials": [
+        {
+          "Alpha": 1.0,
+          "Color": "#18ff00",
+          "Enabled": true,
+          "Material": 6
+        },
+        {
+          "Alpha": 1.0,
+          "Color": "#fefffe",
+          "Enabled": true,
+          "Ignore-Z": true,
+          "Material": 6
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Hands": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Local player": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Planting": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Sleeves": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Weapons": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "ESP": {
+    "Enemies": {
+      "All": {
+        "Skeleton": {
+          "Alpha": 1.0,
+          "Color": "#18ff00"
+        }
+      }
+    }
+  },
+  "Inventory Changer": {
+    "Equipment": [
+      {
+        "CT": 69,
+        "Slot": 0,
+        "TT": 70
+      },
+      {
+        "CT": 9,
+        "Slot": 2,
+        "TT": 49
+      },
+      {
+        "CT": 50,
+        "Slot": 3,
+        "TT": 50
+      },
+      {
+        "CT": 16,
+        "Slot": 5,
+        "TT": 22
+      },
+      {
+        "CT": 36,
+        "Slot": 6,
+        "TT": 63
+      },
+      {
+        "CT": 12,
+        "Slot": 8,
+        "TT": 29
+      },
+      {
+        "CT": 24,
+        "Slot": 9,
+        "TT": 24
+      },
+      {
+        "CT": 28,
+        "Slot": 10,
+        "TT": 28
+      },
+      {
+        "CT": 26,
+        "Slot": 11,
+        "TT": 26
+      },
+      {
+        "CT": 35,
+        "Slot": 12,
+        "TT": 35
+      },
+      {
+        "CT": 13,
+        "Slot": 14
+      },
+      {
+        "CT": 11,
+        "Slot": 15,
+        "TT": 10
+      },
+      {
+        "CT": 21,
+        "Slot": 16,
+        "TT": 21
+      },
+      {
+        "Slot": 17,
+        "TT": 39
+      },
+      {
+        "CT": 37,
+        "Slot": 18,
+        "TT": 67
+      },
+      {
+        "CT": 25,
+        "Slot": 21,
+        "TT": 25
+      },
+      {
+        "CT": 31,
+        "Slot": 24,
+        "TT": 31
+      },
+      {
+        "CT": 0,
+        "Slot": 38,
+        "TT": 72
+      },
+      {
+        "CT": 66,
+        "Slot": 41,
+        "TT": 65
+      }
+    ],
+    "Items": [
+      {
+        "Item Name": "3rd Commando Company | KSK",
+        "Weapon ID": 5400
+      },
+      {
+        "Item Name": "Specialist Gloves",
+        "Paint Kit": 10063,
+        "Paint Kit Name": "Fade",
+        "Seed": 746,
+        "Weapon ID": 5034,
+        "Wear": 0.100550786
+      },
+      {
+        "Item Name": "Specialist Gloves",
+        "Paint Kit": 10033,
+        "Paint Kit Name": "Crimson Kimono",
+        "Seed": 42,
+        "Weapon ID": 5034,
+        "Wear": 0.06266865
+      },
+      {
+        "Item Name": "Specialist Gloves",
+        "Paint Kit": 10065,
+        "Paint Kit Name": "Marble Fade",
+        "Seed": 509,
+        "Weapon ID": 5034,
+        "Wear": 0.082162894
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 1117,
+        "Paint Kit Name": "Autotronic",
+        "Seed": 187,
+        "Weapon ID": 509,
+        "Wear": 0.008644568
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 751,
+        "Paint Kit Name": "Hand Brake",
+        "Seed": 257,
+        "Weapon ID": 40,
+        "Wear": 0.052540656
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 1026,
+        "Paint Kit Name": "Fade",
+        "Seed": 610,
+        "Weapon ID": 9,
+        "Wear": 0.0026092306
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 584,
+        "Paint Kit Name": "Phobos",
+        "Seed": 523,
+        "Weapon ID": 9,
+        "Wear": 0.02248173
+      },
+      {
+        "Item Name": "MAC-10",
+        "Paint Kit": 1025,
+        "Paint Kit Name": "Gold Brick",
+        "Seed": 296,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 5053,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 1689,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 5033,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 5013,
+            "Wear": 0.0
+          }
+        ],
+        "Tournament ID": 18,
+        "Tournament Player": 0,
+        "Tournament Stage": 27,
+        "Tournament Team 1": 95,
+        "Tournament Team 2": 105,
+        "Weapon ID": 17,
+        "Wear": 0.22569986
+      },
+      {
+        "Item Name": "USP-S",
+        "Paint Kit": 1031,
+        "Paint Kit Name": "Ancient Visions",
+        "Seed": 609,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 5053,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 5041,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 5049,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 1689,
+            "Wear": 0.0
+          }
+        ],
+        "Tournament ID": 18,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 31,
+        "Tournament Team 2": 61,
+        "Weapon ID": 61,
+        "Wear": 0.023032535
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 1018,
+        "Paint Kit Name": "Panthera onca",
+        "Seed": 919,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 4965,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 5053,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 5013,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 1689,
+            "Wear": 0.0
+          }
+        ],
+        "Tournament ID": 18,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 12,
+        "Tournament Team 2": 95,
+        "Weapon ID": 7,
+        "Wear": 0.013092793
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 1001,
+        "Paint Kit Name": "Welcome to the Jungle",
+        "Seed": 309,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 5041,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 5049,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 1689,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 5053,
+            "Wear": 0.0
+          }
+        ],
+        "Tournament ID": 18,
+        "Tournament Player": 0,
+        "Tournament Stage": 27,
+        "Tournament Team 1": 31,
+        "Tournament Team 2": 61,
+        "Weapon ID": 60,
+        "Wear": 0.036492728
+      },
+      {
+        "Item Name": "MP9",
+        "Paint Kit": 368,
+        "Paint Kit Name": "Setting Sun",
+        "Seed": 3,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 2044,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 1757,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 1765,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 1805,
+            "Wear": 0.0
+          }
+        ],
+        "Tournament ID": 11,
+        "Tournament Player": 52678767,
+        "Tournament Stage": 5,
+        "Tournament Team 1": 63,
+        "Tournament Team 2": 6,
+        "Weapon ID": 34,
+        "Wear": 0.08593456
+      },
+      {
+        "Item Name": "FAMAS",
+        "Paint Kit": 371,
+        "Paint Kit Name": "Styx",
+        "Seed": 917,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 2066,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 2207,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 2078,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 2130,
+            "Wear": 0.0
+          }
+        ],
+        "Tournament ID": 12,
+        "Tournament Player": 52876568,
+        "Tournament Stage": 5,
+        "Tournament Team 1": 60,
+        "Tournament Team 2": 14,
+        "Weapon ID": 10,
+        "Wear": 0.21999283
+      },
+      {
+        "Item Name": "Bayonet",
+        "Paint Kit": 38,
+        "Paint Kit Name": "Fade",
+        "Seed": 686,
+        "Weapon ID": 500,
+        "Wear": 0.0051329057
+      },
+      {
+        "Item Name": "Desert Eagle",
+        "Paint Kit": 237,
+        "Paint Kit Name": "Urban Rubble",
+        "Seed": 36,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 1022,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 1074,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 1058,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 1296,
+            "Wear": 0.0
+          }
+        ],
+        "Tournament ID": 9,
+        "Tournament Player": 52678767,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 63,
+        "Tournament Team 2": 60,
+        "Weapon ID": 1,
+        "Wear": 0.048679143
+      },
+      {
+        "Item Name": "Five-SeveN",
+        "Paint Kit": 1082,
+        "Paint Kit Name": "Fall Hazard",
+        "Seed": 36,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 1695,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 5053,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 4985,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 4969,
+            "Wear": 0.0
+          }
+        ],
+        "Tournament ID": 18,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 89,
+        "Tournament Team 2": 98,
+        "Weapon ID": 3,
+        "Wear": 0.19852759
+      },
+      {
+        "Item Name": "Tec-9",
+        "Paint Kit": 179,
+        "Paint Kit Name": "Nuclear Threat",
+        "Seed": 298,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 1315,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 1074,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 1158,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 1316,
+            "Wear": 0.0
+          }
+        ],
+        "Tournament ID": 9,
+        "Tournament Player": 925972,
+        "Tournament Stage": 14,
+        "Tournament Team 1": 64,
+        "Tournament Team 2": 65,
+        "Weapon ID": 30,
+        "Wear": 0.38818058
+      },
+      {
+        "Item Name": "PP-Bizon",
+        "Paint Kit": 775,
+        "Paint Kit Name": "Facility Sketch",
+        "Seed": 930,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 5053,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 4981,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 4965,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 1693,
+            "Wear": 0.0
+          }
+        ],
+        "Tournament ID": 18,
+        "Tournament Player": 0,
+        "Tournament Stage": 11,
+        "Tournament Team 1": 12,
+        "Tournament Team 2": 59,
+        "Weapon ID": 26,
+        "Wear": 0.057470586
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 780,
+        "Paint Kit Name": "Mainframe",
+        "Seed": 854,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 3002,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 3256,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 3054,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 2990,
+            "Wear": 0.0
+          }
+        ],
+        "Tournament ID": 14,
+        "Tournament Player": 90378773,
+        "Tournament Stage": 27,
+        "Tournament Team 1": 69,
+        "Tournament Team 2": 63,
+        "Weapon ID": 16,
+        "Wear": 0.028419403
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 319,
+        "Paint Kit Name": "Detour",
+        "Seed": 907,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 3054,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 3050,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 3424,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 3046,
+            "Wear": 0.0
+          }
+        ],
+        "Tournament ID": 14,
+        "Tournament Player": 20273529,
+        "Tournament Stage": 27,
+        "Tournament Team 1": 74,
+        "Tournament Team 2": 81,
+        "Weapon ID": 40,
+        "Wear": 0.12687775
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 1052,
+        "Paint Kit Name": "Death Strike",
+        "Seed": 103,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 1690,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 5053,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 5001,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 5005,
+            "Wear": 0.0
+          }
+        ],
+        "Tournament ID": 18,
+        "Tournament Player": 0,
+        "Tournament Stage": 27,
+        "Tournament Team 1": 69,
+        "Tournament Team 2": 84,
+        "Weapon ID": 40,
+        "Wear": 0.013516753
+      },
+      {
+        "Item Name": "Tec-9",
+        "Paint Kit": 159,
+        "Paint Kit Name": "Brass",
+        "Seed": 621,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 2130,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 2225,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 2086,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 2074,
+            "Wear": 0.0
+          }
+        ],
+        "Tournament ID": 12,
+        "Tournament Player": 46200979,
+        "Tournament Stage": 5,
+        "Tournament Team 1": 6,
+        "Tournament Team 2": 63,
+        "Weapon ID": 30,
+        "Wear": 0.038731977
+      },
+      {
+        "Item Name": "SG 553",
+        "Paint Kit": 247,
+        "Paint Kit Name": "Damascus Steel",
+        "Seed": 658,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 1101,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 1046,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 1074,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 1050,
+            "Wear": 0.0
+          }
+        ],
+        "Tournament ID": 9,
+        "Tournament Player": 21075725,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 59,
+        "Tournament Team 2": 33,
+        "Weapon ID": 39,
+        "Wear": 0.14838143
+      },
+      {
+        "Item Name": "MP7",
+        "Paint Kit": 782,
+        "Paint Kit Name": "Motherboard",
+        "Seed": 955,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 1693,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 5053,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 4985,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 5045,
+            "Wear": 0.0
+          }
+        ],
+        "Tournament ID": 18,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 98,
+        "Tournament Team 2": 101,
+        "Weapon ID": 33,
+        "Wear": 0.012432656
+      },
+      {
+        "Item Name": "XM1014",
+        "Paint Kit": 238,
+        "Paint Kit Name": "VariCamo Blue",
+        "Seed": 540,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 955,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 961,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 700,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 940,
+            "Wear": 0.0
+          }
+        ],
+        "Tournament ID": 8,
+        "Tournament Player": 755286,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 33,
+        "Tournament Team 2": 6,
+        "Weapon ID": 25,
+        "Wear": 0.06292831
+      },
+      {
+        "Item Name": "P90",
+        "Paint Kit": 234,
+        "Paint Kit Name": "Ash Wood",
+        "Seed": 359,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 3054,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 3355,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 3002,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 3030,
+            "Wear": 0.0
+          }
+        ],
+        "Tournament ID": 14,
+        "Tournament Player": 77546728,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 25,
+        "Tournament Team 2": 69,
+        "Weapon ID": 19,
+        "Wear": 0.029779432
+      },
+      {
+        "Item Name": "PP-Bizon",
+        "Paint Kit": 1083,
+        "Paint Kit Name": "Breaker Box",
+        "Seed": 644,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 5053,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 4997,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 1695,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 5021,
+            "Wear": 0.0
+          }
+        ],
+        "Tournament ID": 18,
+        "Tournament Player": 0,
+        "Tournament Stage": 27,
+        "Tournament Team 1": 102,
+        "Tournament Team 2": 104,
+        "Weapon ID": 26,
+        "Wear": 0.03439111
+      },
+      {
+        "Item Name": "UMP-45",
+        "Paint Kit": 879,
+        "Paint Kit Name": "Fade",
+        "Seed": 482,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 5053,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 4985,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 5049,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 1690,
+            "Wear": 0.0
+          }
+        ],
+        "Tournament ID": 18,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 98,
+        "Tournament Team 2": 61,
+        "Weapon ID": 24,
+        "Wear": 0.024506485
+      },
+      {
+        "Item Name": "MAC-10",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 764,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 1690,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 5017,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 5053,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 5005,
+            "Wear": 0.0
+          }
+        ],
+        "Tournament ID": 18,
+        "Tournament Player": 0,
+        "Tournament Stage": 27,
+        "Tournament Team 1": 69,
+        "Tournament Team 2": 106,
+        "Weapon ID": 17,
+        "Wear": 0.03200874
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 921,
+        "Paint Kit Name": "Gold Arabesque",
+        "Seed": 516,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 5053,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 4973,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 1690,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 5001,
+            "Wear": 0.0
+          }
+        ],
+        "Tournament ID": 18,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 48,
+        "Tournament Team 2": 84,
+        "Weapon ID": 7,
+        "Wear": 0.0030572056
+      },
+      {
+        "Item Name": "Negev",
+        "Paint Kit": 610,
+        "Paint Kit Name": "Dazzle",
+        "Seed": 531,
+        "Weapon ID": 28,
+        "Wear": 0.16580793
+      },
+      {
+        "Item Name": "MP9",
+        "Paint Kit": 609,
+        "Paint Kit Name": "Airlock",
+        "Seed": 121,
+        "Weapon ID": 34,
+        "Wear": 0.30388814
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 569,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 948,
+        "Weapon ID": 505,
+        "Wear": 0.0037636512
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 571,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 5,
+        "Weapon ID": 515,
+        "Wear": 0.0012546167
+      },
+      {
+        "Item Name": "PP-Bizon",
+        "Paint Kit": 159,
+        "Paint Kit Name": "Brass",
+        "Seed": 472,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 337,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 301,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 329,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 76,
+            "Wear": 0.0
+          }
+        ],
+        "Tournament ID": 6,
+        "Tournament Player": 0,
+        "Tournament Stage": 8,
+        "Tournament Team 1": 46,
+        "Tournament Team 2": 1,
+        "Weapon ID": 26,
+        "Wear": 0.31083784
+      },
+      {
+        "Item Name": "Desert Eagle",
+        "Paint Kit": 603,
+        "Paint Kit Name": "Directive",
+        "Seed": 555,
+        "StatTrak": 416,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 76,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 76,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 76,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 76,
+            "Wear": 0.0
+          }
+        ],
+        "Weapon ID": 1,
+        "Wear": 0.1734146
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 756,
+        "Paint Kit Name": "Gungnir",
+        "Seed": 695,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 76,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 76,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 76,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 76,
+            "Wear": 0.0
+          }
+        ],
+        "Weapon ID": 9,
+        "Wear": 0.038001023
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 490,
+        "Paint Kit Name": "Frontside Misty",
+        "Seed": 790,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 76,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 76,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 76,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 76,
+            "Wear": 0.0
+          }
+        ],
+        "Weapon ID": 7,
+        "Wear": 0.042037807
+      },
+      {
+        "Item Name": "SG 553",
+        "Paint Kit": 750,
+        "Paint Kit Name": "Integrale",
+        "Seed": 137,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 76,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 4118,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 76,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 76,
+            "Wear": 0.0
+          }
+        ],
+        "Tournament ID": 16,
+        "Weapon ID": 39,
+        "Wear": 0.24784467
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 409,
+        "Paint Kit Name": "Tiger Tooth",
+        "Seed": 333,
+        "Weapon ID": 523,
+        "Wear": 0.0017286827
+      },
+      {
+        "Item Name": "Specialist Gloves",
+        "Paint Kit": 10067,
+        "Paint Kit Name": "Tiger Strike",
+        "Seed": 606,
+        "Weapon ID": 5034,
+        "Wear": 0.09063801
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 409,
+        "Paint Kit Name": "Tiger Tooth",
+        "Seed": 532,
+        "Weapon ID": 515,
+        "Wear": 0.0019308585
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 409,
+        "Paint Kit Name": "Tiger Tooth",
+        "Seed": 626,
+        "Weapon ID": 505,
+        "Wear": 0.0014751037
+      },
+      {
+        "Item Name": "Karambit",
+        "Paint Kit": 409,
+        "Paint Kit Name": "Tiger Tooth",
+        "Seed": 195,
+        "Weapon ID": 507,
+        "Wear": 0.0012494826
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 420,
+        "Paint Kit Name": "Doppler",
+        "Seed": 881,
+        "Weapon ID": 505,
+        "Wear": 0.0043184473
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 418,
+        "Paint Kit Name": "Doppler",
+        "Seed": 326,
+        "Weapon ID": 505,
+        "Wear": 0.0054692486
+      },
+      {
+        "Item Name": "Specialist Gloves",
+        "Paint Kit": 10064,
+        "Paint Kit Name": "Mogul",
+        "Seed": 13,
+        "Weapon ID": 5034,
+        "Wear": 0.09706335
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 344,
+        "Paint Kit Name": "Dragon Lore",
+        "Seed": 135,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 37,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 37,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 37,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 37,
+            "Wear": 0.0
+          }
+        ],
+        "Weapon ID": 9,
+        "Wear": 0.016134959
+      },
+      {
+        "Item Name": "Glock-18",
+        "Paint Kit": 353,
+        "Paint Kit Name": "Water Elemental",
+        "Seed": 860,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 76,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 64,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 76,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 76,
+            "Wear": 0.0
+          }
+        ],
+        "Weapon ID": 4,
+        "Wear": 0.035568543
+      },
+      {
+        "Item Name": "Dual Berettas",
+        "Paint Kit": 153,
+        "Paint Kit Name": "Demolition",
+        "Seed": 524,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 4927,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 64,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 4118,
+            "Wear": 0.0
+          }
+        ],
+        "Tournament ID": 16,
+        "Weapon ID": 2,
+        "Wear": 0.45292085
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 838,
+        "Paint Kit Name": "Atheris",
+        "Seed": 55,
+        "Weapon ID": 9,
+        "Wear": 0.00021422106
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 736,
+        "Paint Kit Name": "The Prince",
+        "Seed": 565,
+        "Weapon ID": 9,
+        "Wear": 0.035581365
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 279,
+        "Paint Kit Name": "Asiimov",
+        "Seed": 415,
+        "Weapon ID": 9,
+        "Wear": 0.20566621
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 51,
+        "Paint Kit Name": "Lightning Strike",
+        "Seed": 764,
+        "Weapon ID": 9,
+        "Wear": 0.0049371845
+      },
+      {
+        "Item Name": "Skeleton Knife",
+        "Paint Kit": 12,
+        "Paint Kit Name": "Crimson Web",
+        "Seed": 547,
+        "Weapon ID": 525,
+        "Wear": 0.09137705
+      },
+      {
+        "Item Name": "Skeleton Knife",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 317,
+        "Weapon ID": 525,
+        "Wear": 0.0011756953
+      },
+      {
+        "Item Name": "Skeleton Knife",
+        "Paint Kit": 43,
+        "Paint Kit Name": "Stained",
+        "Seed": 731,
+        "Weapon ID": 525,
+        "Wear": 0.045066077
+      },
+      {
+        "Item Name": "Karambit",
+        "Paint Kit": 576,
+        "Paint Kit Name": "Autotronic",
+        "Seed": 374,
+        "Weapon ID": 507,
+        "Wear": 0.053313863
+      },
+      {
+        "Item Name": "Karambit",
+        "Paint Kit": 578,
+        "Paint Kit Name": "Bright Water",
+        "Seed": 635,
+        "Weapon ID": 507,
+        "Wear": 0.008641586
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 579,
+        "Paint Kit Name": "Bright Water",
+        "Seed": 526,
+        "Weapon ID": 515,
+        "Wear": 0.02414519
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 421,
+        "Paint Kit Name": "Doppler",
+        "Seed": 146,
+        "Weapon ID": 515,
+        "Wear": 0.0021397925
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 819,
+        "Paint Kit Name": "Desert Hydra",
+        "Seed": 369,
+        "Weapon ID": 9,
+        "Wear": 0.025467018
+      },
+      {
+        "Item Name": "Desert Eagle",
+        "Paint Kit": 711,
+        "Paint Kit Name": "Code Red",
+        "Seed": 765,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 60,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 60,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 60,
+            "Wear": 0.0
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 60,
+            "Wear": 0.0
+          }
+        ],
+        "Weapon ID": 1,
+        "Wear": 0.00859967
+      },
+      {
+        "Item Name": "Driver Gloves",
+        "Paint Kit": 10016,
+        "Paint Kit Name": "Crimson Weave",
+        "Seed": 1,
+        "Weapon ID": 5031,
+        "Wear": 0.06464311
+      },
+      {
+        "Item Name": "Sport Gloves",
+        "Paint Kit": 10073,
+        "Paint Kit Name": "Slingshot",
+        "Seed": 908,
+        "Weapon ID": 5030,
+        "Wear": 0.07830626
+      },
+      {
+        "Item Name": "Sport Gloves",
+        "Paint Kit": 10045,
+        "Paint Kit Name": "Amphibious",
+        "Seed": 884,
+        "Weapon ID": 5030,
+        "Wear": 0.07396896
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 917,
+        "Paint Kit Name": "Wildfire",
+        "Seed": 813,
+        "Weapon ID": 9,
+        "Wear": 0.030121202
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 259,
+        "Paint Kit Name": "Redline",
+        "Seed": 27,
+        "Weapon ID": 9,
+        "Wear": 0.11620888
+      },
+      {
+        "Item Name": "Karambit",
+        "Paint Kit": 416,
+        "Paint Kit Name": "Doppler",
+        "Seed": 446,
+        "Weapon ID": 507,
+        "Wear": 0.0026196963
+      },
+      {
+        "Item Name": "Karambit",
+        "Paint Kit": 12,
+        "Paint Kit Name": "Crimson Web",
+        "Seed": 524,
+        "Weapon ID": 507,
+        "Wear": 0.06187236
+      },
+      {
+        "Item Name": "Music Kit",
+        "Music ID": 40,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "'Medium Rare' Crasswater | Guerrilla Warfare",
+        "Weapon ID": 4780
+      }
+    ],
+    "Version": 3
+  },
+  "Misc": {
+    "Bomb timer": {
+      "Enabled": true
+    },
+    "Fix animation LOD": true,
+    "Fix bone matrix": true,
+    "Fix movement": true,
+    "Grenade predict": true,
+    "Hit sound": 2,
+    "Menu key": "HOME",
+    "Noscope crosshair": {
+      "Alpha": 1.0,
+      "Color": "#955efc",
+      "Enabled": true
+    },
+    "Radar hack": true,
+    "Reveal money": true,
+    "Reveal ranks": true,
+    "Reveal suspect": true,
+    "Reveal votes": true,
+    "Spectator list": {
+      "Enabled": true,
+      "No Title Bar": true,
+      "Pos": {
+        "X": 2.0,
+        "Y": 462.0
+      },
+      "Size": {
+        "X": 130.0,
+        "Y": 190.0
+      }
+    }
+  },
+  "Sound": {
+    "Chicken volume": 0,
+    "Players": [
+      {
+        "Master volume": 70
+      },
+      {},
+      {}
+    ]
+  },
+  "Style": {
+    "Colors": {
+      "Border": [
+        0.43,
+        0.43,
+        0.5,
+        0.5
+      ],
+      "BorderShadow": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Button": [
+        0.26,
+        0.59,
+        0.98,
+        0.4
+      ],
+      "ButtonActive": [
+        0.06,
+        0.53,
+        0.98,
+        1.0
+      ],
+      "ButtonHovered": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "CheckMark": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "ChildBg": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "DragDropTarget": [
+        1.0,
+        1.0,
+        0.0,
+        0.9
+      ],
+      "FrameBg": [
+        0.16,
+        0.29,
+        0.48,
+        0.54
+      ],
+      "FrameBgActive": [
+        0.26,
+        0.59,
+        0.98,
+        0.67
+      ],
+      "FrameBgHovered": [
+        0.26,
+        0.59,
+        0.98,
+        0.4
+      ],
+      "Header": [
+        0.26,
+        0.59,
+        0.98,
+        0.31
+      ],
+      "HeaderActive": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "HeaderHovered": [
+        0.26,
+        0.59,
+        0.98,
+        0.8
+      ],
+      "MenuBarBg": [
+        0.14,
+        0.14,
+        0.14,
+        1.0
+      ],
+      "ModalWindowDimBg": [
+        0.8,
+        0.8,
+        0.8,
+        0.35
+      ],
+      "NavHighlight": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "NavWindowingDimBg": [
+        0.8,
+        0.8,
+        0.8,
+        0.2
+      ],
+      "NavWindowingHighlight": [
+        1.0,
+        1.0,
+        1.0,
+        0.7
+      ],
+      "PlotHistogram": [
+        0.9,
+        0.7,
+        0.0,
+        1.0
+      ],
+      "PlotHistogramHovered": [
+        1.0,
+        0.6,
+        0.0,
+        1.0
+      ],
+      "PlotLines": [
+        0.61,
+        0.61,
+        0.61,
+        1.0
+      ],
+      "PlotLinesHovered": [
+        1.0,
+        0.43,
+        0.35,
+        1.0
+      ],
+      "PopupBg": [
+        0.08,
+        0.08,
+        0.08,
+        0.94
+      ],
+      "ResizeGrip": [
+        0.26,
+        0.59,
+        0.98,
+        0.2
+      ],
+      "ResizeGripActive": [
+        0.26,
+        0.59,
+        0.98,
+        0.95
+      ],
+      "ResizeGripHovered": [
+        0.26,
+        0.59,
+        0.98,
+        0.67
+      ],
+      "ScrollbarBg": [
+        0.02,
+        0.02,
+        0.02,
+        0.53
+      ],
+      "ScrollbarGrab": [
+        0.31,
+        0.31,
+        0.31,
+        1.0
+      ],
+      "ScrollbarGrabActive": [
+        0.51,
+        0.51,
+        0.51,
+        1.0
+      ],
+      "ScrollbarGrabHovered": [
+        0.41,
+        0.41,
+        0.41,
+        1.0
+      ],
+      "Separator": [
+        0.43,
+        0.43,
+        0.5,
+        0.5
+      ],
+      "SeparatorActive": [
+        0.1,
+        0.4,
+        0.75,
+        1.0
+      ],
+      "SeparatorHovered": [
+        0.1,
+        0.4,
+        0.75,
+        0.78
+      ],
+      "SliderGrab": [
+        0.24,
+        0.52,
+        0.88,
+        1.0
+      ],
+      "SliderGrabActive": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "Tab": [
+        0.17999999,
+        0.34999996,
+        0.58000004,
+        0.862
+      ],
+      "TabActive": [
+        0.19999999,
+        0.40999997,
+        0.68,
+        1.0
+      ],
+      "TabHovered": [
+        0.26,
+        0.59,
+        0.98,
+        0.8
+      ],
+      "TabUnfocused": [
+        0.068,
+        0.10199998,
+        0.14800003,
+        0.9724
+      ],
+      "TabUnfocusedActive": [
+        0.13599998,
+        0.26199996,
+        0.424,
+        1.0
+      ],
+      "TableBorderLight": [
+        0.23,
+        0.23,
+        0.25,
+        1.0
+      ],
+      "TableBorderStrong": [
+        0.31,
+        0.31,
+        0.35,
+        1.0
+      ],
+      "TableHeaderBg": [
+        0.19,
+        0.19,
+        0.2,
+        1.0
+      ],
+      "TableRowBg": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "TableRowBgAlt": [
+        1.0,
+        1.0,
+        1.0,
+        0.06
+      ],
+      "Text": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "TextDisabled": [
+        0.5,
+        0.5,
+        0.5,
+        1.0
+      ],
+      "TextSelectedBg": [
+        0.26,
+        0.59,
+        0.98,
+        0.35
+      ],
+      "TitleBg": [
+        0.04,
+        0.04,
+        0.04,
+        1.0
+      ],
+      "TitleBgActive": [
+        0.16,
+        0.29,
+        0.48,
+        1.0
+      ],
+      "TitleBgCollapsed": [
+        0.0,
+        0.0,
+        0.0,
+        0.51
+      ],
+      "WindowBg": [
+        0.06,
+        0.06,
+        0.06,
+        0.94
+      ]
+    },
+    "Menu style": 1
+  },
+  "Triggerbot": [
+    {
+      "Enabled": true,
+      "Scoped only": false,
+      "Shot delay": 56
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Triggerbot Key": "MOUSE5",
+  "Visuals": {
+    "Brightness": 1.0,
+    "Bullet Tracers": {
+      "Enabled": true
+    },
+    "Color correction": {
+      "Enabled": true,
+      "Red": 1.0,
+      "Saturation": 1.0,
+      "Yellow": 0.904
+    },
+    "Disable post-processing": true,
+    "FOV": 6,
+    "Flash reduction": 41,
+    "Hit effect time": 0.1,
+    "No 3d sky": true,
+    "No fog": true,
+    "No grass": true,
+    "Skybox": 14,
+    "Thirdperson": true,
+    "Thirdperson distance": 65,
+    "Thirdperson key": "V",
+    "Viewmodel FOV": 18,
+    "World": {
+      "Color": [
+        1.0,
+        0.99999,
+        0.99999
+      ]
+    },
+    "Zoom": true,
+    "Zoom key": "X"
+  }
+}
